@@ -33,10 +33,12 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
