@@ -15,12 +15,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2405-optimal-partition-of-string](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
