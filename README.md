@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0001-two-sum) |
 | [2405-optimal-partition-of-string](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2405-optimal-partition-of-string) |
 ## String
 |  |
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
