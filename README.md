@@ -13,6 +13,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2405-optimal-partition-of-string](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0022-generate-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
