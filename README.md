@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [2405-optimal-partition-of-string](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0283-move-zeroes) |
+| [0624-maximum-distance-in-arrays](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0724-find-pivot-index) |
 ## Binary Search
