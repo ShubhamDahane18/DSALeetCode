@@ -85,4 +85,20 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
