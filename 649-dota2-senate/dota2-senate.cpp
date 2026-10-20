@@ -1,16 +1,13 @@
 class Solution {
 public:
+    int n;
 
-    bool removeSenator(string &senate, char ch, int idx){
-        bool loopAround = false;
+    void removeSenator(string &senate, vector<bool> &removed, char ch, int idx){
 
         while(true){
-            if(idx == 0){
-                loopAround = true;
-            }
 
-            if(senate[idx] == ch){
-                senate.erase(senate.begin() + idx);
+            if(senate[idx] == ch && removed[idx] == false){
+                removed[idx] = true;
                 break;
             }
 
@@ -18,34 +15,34 @@ public:
             
         }
 
-        return loopAround;
     }
 
     string predictPartyVictory(string senate) {
+        int n = senate.size();
+
         int Rcount = count(senate.begin(), senate.end(), 'R');
         int Dcount = senate.length() - Rcount;
+
+        vector<bool> removed(n, false);
 
         int idx = 0;
 
         while(Rcount > 0 && Dcount > 0){
+
+            if(removed[idx] == false){
+
+                if(senate[idx] == 'R'){
+                    removeSenator(senate, removed, 'D', (idx + 1) % senate.size());
+                    Dcount--;
+                   
+                }
+                else{
+                    removeSenator(senate, removed, 'R', (idx + 1) % senate.size());
+                    Rcount--;
+
+                }
+            }
             
-            if(senate[idx] == 'R'){
-                bool checkRemovalLeft =  removeSenator(senate, 'D', (idx + 1) % senate.size());
-                Dcount--;
-
-                if(checkRemovalLeft){
-                    idx--;
-                }
-            }
-            else{
-                bool checkRemovalLeft = removeSenator(senate, 'R', (idx + 1) % senate.size());
-                Rcount--;
-
-                if(checkRemovalLeft){
-                    idx--;
-                }
-            }
-
             idx = (idx + 1) % senate.size();
         }
 
