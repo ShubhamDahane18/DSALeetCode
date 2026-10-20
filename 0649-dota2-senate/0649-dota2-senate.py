@@ -1,44 +1,37 @@
 class Solution:
 
-    def removeSenate(self, senate: list, ch: str, idx: int) -> bool:
+    def removeSenate(self, senate: list, removed: list, ch: str, idx: int) -> bool:
 
-        loopAround = False
-
-        while True:
-            if idx == 0:
-                loopAround = True
+        while True:   
             
-            if senate[idx] == ch:
-                senate.pop(idx)
+            if senate[idx] == ch and removed[idx] == False:
+                removed[idx] = True
                 break
             idx = (idx + 1) % len(senate)
         
-        return loopAround
 
     def predictPartyVictory(self, senate: str) -> str:
-        
+        n = len(senate)
         senate = list(senate)
         R_count = senate.count('R')
         D_count = len(senate) - R_count
+
+        removed = [False] * n
 
         idx = 0
 
         while R_count > 0 and D_count > 0:
 
-            if senate[idx] == 'R':
-                checkRemovalLeft = self.removeSenate(senate, 'D', (idx + 1) % len(senate))
-                D_count -= 1
+            if removed[idx] == False:
 
-                if checkRemovalLeft:
-                    idx -= 1
-            
-            else:
-                checkRemovalLeft = self.removeSenate(senate, 'R', (idx + 1) % len(senate))
-                R_count -= 1
-
-                if checkRemovalLeft:
-                    idx -= 1
-            
+                if senate[idx] == 'R':
+                    self.removeSenate(senate, removed, 'D', (idx + 1) % len(senate))
+                    D_count -= 1
+                
+                else:
+                    self.removeSenate(senate, removed, 'R', (idx + 1) % len(senate))
+                    R_count -= 1
+                
             idx = (idx + 1) % len(senate)
 
         
