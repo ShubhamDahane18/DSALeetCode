@@ -63,19 +63,23 @@
 | [0624-maximum-distance-in-arrays](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0724-find-pivot-index) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0724-find-pivot-index) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
