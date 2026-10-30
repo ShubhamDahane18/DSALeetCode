@@ -114,4 +114,8 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0649-dota2-senate) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
