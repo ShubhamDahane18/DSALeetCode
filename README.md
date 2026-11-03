@@ -61,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0724-find-pivot-index) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Stack
 |  |
 | ------- |
@@ -123,4 +125,5 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
