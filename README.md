@@ -49,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0724-find-pivot-index) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0658-find-k-closest-elements) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0658-find-k-closest-elements) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
@@ -92,6 +96,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0658-find-k-closest-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -126,4 +131,8 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ShubhamDahane18/DSALeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
